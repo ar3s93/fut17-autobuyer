@@ -6,5 +6,6 @@ Our script it's not yet ready, we are still developing it, any help must welcome
 **/
 
 The script requires you to install https://github.com/oczkers/fut 
+<br />
 root@null:~# pip install git+https://github.com/oczkers/fut.git
 
